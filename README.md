@@ -41,5 +41,5 @@ https://development.robinwinslow.uk/2016/06/23/fix-docker-networking-dns/
 We allow for you to pull the latest docker image from the master branch at any time. As new releases and tags are made, docker containers on docker hub will be versioned as well to chose from.
 
 ```
-sudo docker pull stevemacenski/navigation2:latest
+sudo docker pull stevemacenski/navigation2:latest2019
 ```
